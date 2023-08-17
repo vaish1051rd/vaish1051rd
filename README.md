@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaish1051rd&label=Profile%20views&color=0e75b6&style=flat" alt="vaish1051rd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaish1051rd" alt="vaish1051rd" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **vaish101navi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkdin.com/in/vaishnavi-gupta-802952200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin.com/in/vaishnavi-gupta-802952200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaishnavi-gupta-802952200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-gupta-802952200" height="30" width="40" /></a>
 <a href="https://instagram.com/vaishnavi10.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavi10.1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vaish1051rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vaish1051rd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vaish1051rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaish1051rd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaish1051rd&show_icons=true&locale=en" alt="vaish1051rd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaish1051rd&" alt="vaish1051rd" /></p>
+
+
+
+
