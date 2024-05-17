@@ -4,9 +4,9 @@ Hi 👋 My name is Vaishnavi
 And I am a Full-Stack Web Developer, Programmer and a final-year undergraduate at the Electrical department of HBTU Kanpur.
 
 * 🌍  I'm based in India.
-* ✉️  You can contact me at [200105074@hbtu.ac.in](mailto:200105074@hbtu.ac.in)
-* 🧠  I'm learning Redux
-* 🤝  I'm open to collaborating on Webdev Projects
+* ✉️  You can contact me at [vaish101navi@gmail.com](mailto:vaish101navi@gmail.com)
+* 🧠  I'm learning Redux.
+* 🤝  I'm open to collaborating on Webdev Projects.
 
 ### Skills
 
